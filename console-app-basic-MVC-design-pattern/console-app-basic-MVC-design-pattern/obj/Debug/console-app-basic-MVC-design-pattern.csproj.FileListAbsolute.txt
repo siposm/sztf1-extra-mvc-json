@@ -1,0 +1,7 @@
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/bin/Debug/console-app-basic-MVC-design-pattern.exe.config
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/bin/Debug/console-app-basic-MVC-design-pattern.exe
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/bin/Debug/console-app-basic-MVC-design-pattern.pdb
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/obj/Debug/console-app-basic-MVC-design-pattern.csprojAssemblyReference.cache
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/obj/Debug/console-app-basic-MVC-design-pattern.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/obj/Debug/console-app-basic-MVC-design-pattern.exe
+/Users/siposmiki/Desktop/programozas-sajat-tesztelesek/console-app-basic-MVC-design-pattern/console-app-basic-MVC-design-pattern/obj/Debug/console-app-basic-MVC-design-pattern.pdb

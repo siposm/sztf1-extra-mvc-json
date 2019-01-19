@@ -1,0 +1,6 @@
+1|Tóth Péter@1990.12.12.|PA123|HU
+2|Varga Balázs@1956.01.23.|XN992|EN
+3|Kiss Klaudia@2000.10.09.|PN889|HU
+4|Nagy Norbert@2000.10.09.|GA234|GE
+5|Piros Petra@2000.10.09.|PN165|HU
+6|Szabó Szonja@2000.10.09.|PN789|HU

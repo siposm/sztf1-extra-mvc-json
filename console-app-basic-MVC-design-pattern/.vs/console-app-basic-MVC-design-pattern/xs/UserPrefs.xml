@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C6E01967-077D-459B-B5A1-A3E3736FB94D}|Default">
+  <MonoDevelop.Ide.ItemProperties.console-app-basic-MVC-design-pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="console-app-basic-MVC-design-pattern/View/OwnerNameView.cs">
+    <Files>
+      <File FileName="console-app-basic-MVC-design-pattern/View/CarView.cs" Line="11" Column="26" />
+      <File FileName="console-app-basic-MVC-design-pattern/Controller/BusinessLogic.cs" Line="38" Column="10" />
+      <File FileName="console-app-basic-MVC-design-pattern/View/Program.cs" Line="12" Column="10" />
+      <File FileName="console-app-basic-MVC-design-pattern/Model/Mechanic.cs" Line="17" Column="10" />
+      <File FileName="console-app-basic-MVC-design-pattern/Model/DriversLicense.cs" Line="28" Column="53" />
+      <File FileName="console-app-basic-MVC-design-pattern/Model/Owner.cs" Line="18" Column="10" />
+      <File FileName="console-app-basic-MVC-design-pattern/View/OwnerNameView.cs" Line="27" Column="35" />
+      <File FileName="console-app-basic-MVC-design-pattern/Model/Car.cs" Line="1" Column="1" />
+      <File FileName="console-app-basic-MVC-design-pattern/Model/Repository.cs" Line="17" Column="34" />
+      <File FileName="console-app-basic-MVC-design-pattern/Controller/OwnerController.cs" Line="12" Column="1" />
+      <File FileName="student_mvc/Program.cs" Line="9" Column="44" />
+      <File FileName="student_mvc/Models/Student.cs" Line="19" Column="1" />
+      <File FileName="student_mvc/Views/StudentView.cs" Line="9" Column="55" />
+      <File FileName="student_mvc/Controllers/StudentController.cs" Line="23" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.student__mvc FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
